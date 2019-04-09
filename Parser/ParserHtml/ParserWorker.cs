@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using AngleSharp.Parser.Html;
 
-namespace ObserverPattern.Pars
+namespace Parser.Pars
 {
     class ParserWorker<T> where T : class
     {

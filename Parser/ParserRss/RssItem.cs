@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Parser.ParserRss
 {
-    class RssItem
+    public class RssItem
     {
         public string Author { get; set; }
         public string Category { get; set; }

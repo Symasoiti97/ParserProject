@@ -1,6 +1,6 @@
 ﻿using AngleSharp.Dom.Html;
 
-namespace ObserverPattern.Pars
+namespace Parser.Pars
 {
     interface IParser<T> where T : class
     {

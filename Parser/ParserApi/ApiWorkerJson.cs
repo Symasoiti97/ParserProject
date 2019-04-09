@@ -6,7 +6,7 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ObserverPattern.ParserApi
+namespace Parser.ParserApi
 {
     class ApiWorkerJson<T> : ApiWorker<T> where T : class
     {

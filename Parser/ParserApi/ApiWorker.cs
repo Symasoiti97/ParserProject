@@ -8,7 +8,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 
-namespace ObserverPattern.ParserApi
+namespace Parser.ParserApi
 {
     abstract class ApiWorker<T> where T : class
     {

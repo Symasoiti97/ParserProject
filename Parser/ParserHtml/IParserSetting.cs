@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ObserverPattern.Pars
+namespace Parser.Pars
 {
     interface IParserSettings
     {

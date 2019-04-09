@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Net;
 
-namespace ObserverPattern.Pars
+namespace Parser.Pars
 {
     class HtmlLoader
     {
